@@ -17,8 +17,8 @@ title: sui generis
 email: nadia.aguiar@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   único no seu gênero;
-baseurl: "/texto" # the subpath of your site, e.g. /blog
-url: "https://nadia-aguiar.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/suigeneris" # the subpath of your site, e.g. /blog
+url: "https://nadia-aguiar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: patdryburgh
 github_username:  nadia-aguiar
