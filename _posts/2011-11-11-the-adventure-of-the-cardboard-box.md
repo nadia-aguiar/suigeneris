@@ -1,279 +1,381 @@
 ---
 layout: post
-title: "The Adventure of the Cardboard Box"
+title: "The Adventure of the Dying Detective"
 author: "Arthur Conan Doyle"
 categories: literature
+author: Arthur Conan Doyle
 ---
 
-In choosing a few typical cases which illustrate the remarkable mental qualities of my friend, Sherlock Holmes[^1], I have endeavoured, as far as possible, to select those which presented the minimum of sensationalism, while offering a fair field for his talents. It is, however, unfortunately impossible entirely to separate the sensational from the criminal, and a chronicler is left in the dilemma that he must either sacrifice details which are essential to his statement and so give a false impression of the problem, or he must use matter which chance, and not choice, has provided him with. With this short preface I shall turn to my notes of what proved to be a strange, though a peculiarly terrible, chain of events.
+Mrs. Hudson, the landlady of Sherlock Holmes, was a long-suffering woman. Not only was her first-floor flat invaded at all hours by throngs of singular and often undesirable characters but her remarkable lodger showed an eccentricity and irregularity in his life which must have sorely tried her patience. His incredible untidiness, his addiction to music at strange hours, his occasional revolver practice within doors, his weird and often malodorous scientific experiments, and the atmosphere of violence and danger which hung around him made him the very worst tenant in London. On the other hand, his payments were princely. I have no doubt that the house might have been purchased at the price which Holmes paid for his rooms during the years that I was with him.
 
-It was a blazing hot day in August. Baker Street was like an oven, and the glare of the sunlight upon the yellow brickwork of the house across the road was painful to the eye. It was hard to believe that these were the same walls which loomed so gloomily through the fogs of winter. Our blinds were half-drawn, and Holmes lay curled upon the sofa, reading and re-reading a letter which he had received by the morning post. For myself, my term of service in India had trained me to stand heat better than cold, and a thermometer at ninety was no hardship. But the morning paper was uninteresting. Parliament had risen. Everybody was out of town, and I yearned for the glades of the New Forest or the shingle of Southsea. A depleted bank account had caused me to postpone my holiday, and as to my companion, neither the country nor the sea presented the slightest attraction to him. He loved to lie in the very center of five millions of people, with his filaments stretching out and running through them, responsive to every little rumour or suspicion of unsolved crime. Appreciation of nature found no place among his many gifts, and his only change was when he turned his mind from the evil-doer of the town to track down his brother of the country.
+The landlady stood in the deepest awe of him and never dared to interfere with him, however outrageous his proceedings might seem. She was fond of him, too, for he had a remarkable gentleness and courtesy in his dealings with women. He disliked and distrusted the sex, but he was always a chivalrous opponent. Knowing how genuine was her regard for him, I listened earnestly to her story when she came to my rooms in the second year of my married life and told me of the sad condition to which my poor friend was reduced.
 
-Finding that Holmes was too absorbed for conversation I had tossed side the barren paper, and leaning back in my chair I fell into a brown study. Suddenly my companion's voice broke in upon my thoughts:
+“He's dying, Dr. Watson,” said she. “For three days he has been sinking, and I doubt if he will last the day. He would not let me get a doctor. This morning when I saw his bones sticking out of his face and his great bright eyes looking at me I could stand no more of it. ‘With your leave or without it, Mr. Holmes, I am going for a doctor this very hour,’ said I. ‘Let it be Watson, then,’ said he. I wouldn't waste an hour in coming to him, sir, or you may not see him alive.”
 
-“You are right, Watson,” said he. “It does seem a most preposterous way of settling a dispute.”
+I was horrified for I had heard nothing of his illness. I need not say that I rushed for my coat and my hat. As we drove back I asked for the details.
 
-“Most preposterous!” I exclaimed, and then suddenly realizing how he had echoed the inmost thought of my soul, I sat up in my chair and stared at him in blank amazement.
+“There is little I can tell you, sir. He has been working at a case down at Rotherhithe, in an alley near the river, and he has brought this illness back with him. He took to his bed on Wednesday afternoon and has never moved since. For these three days neither food nor drink has passed his lips.”
 
-“What is this, Holmes?” I cried. “This is beyond anything which I could have imagined.”
+“Good God! Why did you not call in a doctor?”
 
-He laughed heartily at my perplexity.
+“He wouldn't have it, sir. You know how masterful he is. I didn't dare to disobey him. But he's not long for this world, as you'll see for yourself the moment that you set eyes on him.”
 
-“You remember,” said he, “that some little time ago when I read you the passage in one of Poe's sketches in which a close reasoner follows the unspoken thoughts of his companion, you were inclined to treat the matter as a mere tour-de-force of the author. On my remarking that I was constantly in the habit of doing the same thing you expressed incredulity.”
+He was indeed a deplorable spectacle. In the dim light of a foggy November day the sick room was a gloomy spot, but it was that gaunt, wasted face staring at me from the bed which sent a chill to my heart. His eyes had the brightness of fever, there was a hectic flush upon either cheek, and dark crusts clung to his lips; the thin hands upon the coverlet twitched incessantly, his voice was croaking and spasmodic. He lay listlessly as I entered the room, but the sight of me brought a gleam of recognition to his eyes.
 
-“Oh, no!”
+“Well, Watson, we seem to have fallen upon evil days,” said he in a feeble voice, but with something of his old carelessness of manner.
 
-“Perhaps not with your tongue, my dear Watson, but certainly with your eyebrows. So when I saw you throw down your paper and enter upon a train of thought, I was very happy to have the opportunity of reading it off, and eventually of breaking into it, as a proof that I had been in rapport with you.”
+“My dear fellow!” I cried, approaching him.
 
-But I was still far from satisfied. “In the example which you read to me,” said I, “the reasoner drew his conclusions from the actions of the man whom he observed. If I remember right, he stumbled over a heap of stones, looked up at the stars, and so on. But I have been seated quietly in my chair, and what clues can I have given you?”
+“Stand back! Stand right back!” said he with the sharp imperiousness which I had associated only with moments of crisis. “If you approach me, Watson, I shall order you out of the house.”
 
-“You do yourself an injustice. The features are given to man as the means by which he shall express his emotions, and yours are faithful servants.”
+“But why?”
 
-“Do you mean to say that you read my train of thoughts from my features?”
+“Because it is my desire. Is that not enough?”
 
-“Your features and especially your eyes. Perhaps you cannot yourself recall how your reverie commenced?”
+Yes, Mrs. Hudson was right. He was more masterful than ever. It was pitiful, however, to see his exhaustion.
 
-“No, I cannot.”
+“I only wished to help,” I explained.
 
-“Then I will tell you. After throwing down your paper, which was the action which drew my attention to you, you sat for half a minute with a vacant expression. Then your eyes fixed themselves upon your newly framed picture of General Gordon, and I saw by the alteration in your face that a train of thought had been started. But it did not lead very far. Your eyes flashed across to the unframed portrait of Henry Ward Beecher which stands upon the top of your books. Then you glanced up at the wall, and of course your meaning was obvious. You were thinking that if the portrait were framed it would just cover that bare space and correspond with Gordon's picture there.”
+“Exactly! You will help best by doing what you are told.”
 
-“You have followed me wonderfully!” I exclaimed.
+“Certainly, Holmes.”
 
-“So far I could hardly have gone astray. But now your thoughts went back to Beecher, and you looked hard across as if you were studying the character in his features. Then your eyes ceased to pucker, but you continued to look across, and your face was thoughtful. You were recalling the incidents of Beecher's career. I was well aware that you could not do this without thinking of the mission which he undertook on behalf of the North at the time of the Civil War, for I remember your expressing your passionate indignation at the way in which he was received by the more turbulent of our people. You felt so strongly about it that I knew you could not think of Beecher without thinking of that also. When a moment later I saw your eyes wander away from the picture, I suspected that your mind had now turned to the Civil War, and when I observed that your lips set, your eyes sparkled, and your hands clenched I was positive that you were indeed thinking of the gallantry which was shown by both sides in that desperate struggle. But then, again, your face grew sadder, you shook your head. You were dwelling upon the sadness and horror and useless waste of life. Your hand stole towards your own old wound and a smile quivered on your lips, which showed me that the ridiculous side of this method of settling international questions had forced itself upon your mind. At this point I agreed with you that it was preposterous and was glad to find that all my deductions had been correct.”
+He relaxed the austerity of his manner.
 
-“Absolutely!” said I. “And now that you have explained it, I confess that I am as amazed as before.”
+“You are not angry?” he asked, gasping for breath.
 
-“It was very superficial, my dear Watson, I assure you. I should not have intruded it upon your attention had you not shown some incredulity the other day. But I have in my hands here a little problem which may prove to be more difficult of solution than my small essay I thought reading. Have you observed in the paper a short paragraph referring to the remarkable contents of a packet sent through the post to Miss Cushing, of Cross Street, Croydon?”
+Poor devil, how could I be angry when I saw him lying in such a plight before me?
 
-“No, I saw nothing.”
+“It's for your own sake, Watson,” he croaked.
 
-“Ah! then you must have overlooked it. Just toss it over to me. Here it is, under the financial column. Perhaps you would be good enough to read it aloud.”
+“For my sake?”
 
-I picked up the paper which he had thrown back to me and read the paragraph indicated. It was headed, “A Gruesome Packet.”
+“I know what is the matter with me. It is a coolie disease from Sumatra—a thing that the Dutch know more about than we, though they have made little of it up to date. One thing only is certain. It is infallibly deadly, and it is horribly contagious.”
 
-“Miss Susan Cushing, living at Cross Street, Croydon, has been made the victim of what must be regarded as a peculiarly revolting practical joke unless some more sinister meaning should prove to be attached to the incident. At two o'clock yesterday afternoon a small packet, wrapped in brown paper, was handed in by the postman. A cardboard box was inside, which was filled with coarse salt. On emptying this, Miss Cushing was horrified to find two human ears, apparently quite freshly severed. The box had been sent by parcel post from Belfast upon the morning before. There is no indication as to the sender, and the matter is the more mysterious as Miss Cushing, who is a maiden lady of fifty, has led a most retired life, and has so few acquaintances or correspondents that it is a rare event for her to receive anything through the post. Some years ago, however, when she resided at Penge, she let apartments in her house to three young medical students, whom she was obliged to get rid of on account of their noisy and irregular habits. The police are of opinion that this outrage may have been perpetrated upon Miss Cushing by these youths, who owed her a grudge and who hoped to frighten her by sending her these relics of the dissecting-rooms. Some probability is lent to the theory by the fact that one of these students came from the north of Ireland, and, to the best of Miss Cushing's belief, from Belfast. In the meantime, the matter is being actively investigated, Mr. Lestrade, one of the very smartest of our detective officers, being in charge of the case.”
-“So much for the Daily Chronicle,” said Holmes as I finished reading. “Now for our friend Lestrade. I had a note from him this morning, in which he says:
+He spoke now with a feverish energy, the long hands twitching and jerking as he motioned me away.
 
-“I think that this case is very much in your line. We have every hope of clearing the matter up, but we find a little difficulty in getting anything to work upon. We have, of course, wired to the Belfast post-office, but a large number of parcels were handed in upon that day, and they have no means of identifying this particular one, or of remembering the sender. The box is a half-pound box of honeydew tobacco and does not help us in any way. The medical student theory still appears to me to be the most feasible, but if you should have a few hours to spare I should be very happy to see you out here. I shall be either at the house or in the police-station all day.
-“What say you, Watson? Can you rise superior to the heat and run down to Croydon with me on the off chance of a case for your annals?”
+“Contagious by touch, Watson—that's it, by touch. Keep your distance and all is well.”
 
-“I was longing for something to do.”
+“Good heavens, Holmes! Do you suppose that such a consideration weighs with me of an instant? It would not affect me in the case of a stranger. Do you imagine it would prevent me from doing my duty to so old a friend?”
 
-“You shall have it then. Ring for our boots and tell them to order a cab. I'll be back in a moment when I have changed my dressing-gown and filled my cigar-case.”
+Again I advanced, but he repulsed me with a look of furious anger.
 
-A shower of rain fell while we were in the train, and the heat was far less oppressive in Croydon than in town. Holmes had sent on a wire, so that Lestrade, as wiry, as dapper, and as ferret-like as ever, was waiting for us at the station. A walk of five minutes took us to Cross Street, where Miss Cushing resided.
+“If you will stand there I will talk. If you do not you must leave the room.”
 
-It was a very long street of two-story brick houses, neat and prim, with whitened stone steps and little groups of aproned women gossiping at the doors. Halfway down, Lestrade stopped and tapped at a door, which was opened by a small servant girl. Miss Cushing was sitting in the front room, into which we were ushered. She was a placid-faced woman, with large, gentle eyes, and grizzled hair curving down over her temples on each side. A worked antimacassar lay upon her lap and a basket of coloured silks stood upon a stool beside her.
+I have so deep a respect for the extraordinary qualities of Holmes that I have always deferred to his wishes, even when I least understood them. But now all my professional instincts were aroused. Let him be my master elsewhere, I at least was his in a sick room.
 
-“They are in the outhouse, those dreadful things,” said she as Lestrade entered. “I wish that you would take them away altogether.”
+“Holmes,” said I, “you are not yourself. A sick man is but a child, and so I will treat you. Whether you like it or not, I will examine your symptoms and treat you for them.”
 
-“So I shall, Miss Cushing. I only kept them here until my friend, Mr. Holmes, should have seen them in your presence.”
+He looked at me with venomous eyes.
 
-“Why in my presence, sir?”
+“If I am to have a doctor whether I will or not, let me at least have someone in whom I have confidence,” said he.
 
-“In case he wished to ask any questions.”
+“Then you have none in me?”
 
-“What is the use of asking me questions when I tell you I know nothing whatever about it?”
+“In your friendship, certainly. But facts are facts, Watson, and, after all, you are only a general practitioner with very limited experience and mediocre qualifications. It is painful to have to say these things, but you leave me no choice.”
 
-“Quite so, madam,” said Holmes in his soothing way. “I have no doubt that you have been annoyed more than enough already over this business.”
+I was bitterly hurt.
 
-“Indeed I have, sir. I am a quiet woman and live a retired life. It is something new for me to see my name in the papers and to find the police in my house. I won't have those things I here, Mr. Lestrade. If you wish to see them you must go to the outhouse.”
+“Such a remark is unworthy of you, Holmes. It shows me very clearly the state of your own nerves. But if you have no confidence in me I would not intrude my services. Let me bring Sir Jasper Meek or Penrose Fisher, or any of the best men in London. But someone you must have, and that is final. If you think that I am going to stand here and see you die without either helping you myself or bringing anyone else to help you, then you have mistaken your man.”
 
-It was a small shed in the narrow garden which ran behind the house. Lestrade went in and brought out a yellow cardboard box, with a piece of brown paper and some string. There was a bench at the end of the path, and we all sat down while Homes examined one by one, the articles which Lestrade had handed to him.
+“You mean well, Watson,” said the sick man with something between a sob and a groan. “Shall I demonstrate your own ignorance? What do you know, pray, of Tapanuli fever? What do you know of the black Formosa corruption?”
 
-“The string is exceedingly interesting,” he remarked, holding it up to the light and sniffing at it. “What do you make of this string, Lestrade?”
+“I have never heard of either.”
 
-“It has been tarred.”
+“There are many problems of disease, many strange pathological possibilities, in the East, Watson.” He paused after each sentence to collect his failing strength. “I have learned so much during some recent researches which have a medico-criminal aspect. It was in the course of them that I contracted this complaint. You can do nothing.”
 
-“Precisely. It is a piece of tarred twine. You have also, no doubt, remarked that Miss Cushing has cut the cord with a scissors, as can be seen by the double fray on each side. This is of importance.”
+“Possibly not. But I happen to know that Dr. Ainstree, the greatest living authority upon tropical disease, is now in London. All remonstrance is useless, Holmes, I am going this instant to fetch him.” I turned resolutely to the door.
 
-“I cannot see the importance,” said Lestrade.
+Never have I had such a shock! In an instant, with a tiger-spring, the dying man had intercepted me. I heard the sharp snap of a twisted key. The next moment he had staggered back to his bed, exhausted and panting after his one tremendous outflame of energy.
 
-“The importance lies in the fact that the knot is left intact, and that this knot is of a peculiar character.”
+“You won't take the key from be by force, Watson, I've got you, my friend. Here you are, and here you will stay until I will otherwise. But I'll humour you.” (All this in little gasps, with terrible struggles for breath between.) “You've only my own good at heart. Of course I know that very well. You shall have your way, but give me time to get my strength. Not now, Watson, not now. It's four o'clock. At six you can go.”
 
-“It is very neatly tied. I had already made a note of that effect,” said Lestrade complacently.
+“This is insanity, Holmes.”
 
-“So much for the string, then,” said Holmes, smiling, “now for the box wrapper. Brown paper, with a distinct smell of coffee. What, did you not observe it? I think there can be no doubt of it. Address printed in rather straggling characters: ‘Miss S. Cushing, Cross Street, Croydon.’ Done with a broad-pointed pen, probably a J, and with very inferior ink. The word ‘Croydon’ has been originally spelled with an ‘i’, which has been changed to ‘y’. The parcel was directed, then, by a man—the printing is distinctly masculine—of limited education and unacquainted with the town of Croydon. So far, so good! The box is a yellow, half-pound honeydew box, with nothing distinctive save two thumb marks at the left bottom corner. It is filled with rough salt of the quality used for preserving hides and other of the coarser commercial purposes. And embedded in it are these very singular enclosures.”
+“Only two hours, Watson. I promise you will go at six. Are you content to wait?”
 
-He took out the two ears as he spoke, and laying a board across his knee he examined them minutely, while Lestrade and I, bending forward on each side of him, glanced alternately at these dreadful relics and at the thoughtful, eager face of our companion. Finally he returned them to the box once more and sat for a while in deep meditation.
+“I seem to have no choice.”
 
-“You have observed, of course,” said he at last, “that the ears are not a pair.”
+“None in the world, Watson. Thank you, I need no help in arranging the clothes. You will please keep your distance. Now, Watson, there is one other condition that I would make. You will seek help, not from the man you mention, but from the one that I choose.”
 
-“Yes, I have noticed that. But if this were the practical joke of some students from the dissecting-rooms, it would be as easy for them to send two odd ears as a pair.”
+“By all means.”
 
-“Precisely. But this is not a practical joke.”
+“The first three sensible words that you have uttered since you entered this room, Watson. You will find some books over there. I am somewhat exhausted; I wonder how a battery feels when it pours electricity into a non-conductor? At six, Watson, we resume our conversation.”
 
-“You are sure of it?”
+But it was destined to be resumed long before that hour, and in circumstances which gave me a shock hardly second to that caused by his spring to the door. I had stood for some minutes looking at the silent figure in the bed. His face was almost covered by the clothes and he appeared to be asleep. Then, unable to settle down to reading, I walked slowly round the room, examining the pictures of celebrated criminals with which every wall was adorned. Finally, in my aimless perambulation, I came to the mantelpiece. A litter of pipes, tobacco-pouches, syringes, penknives, revolver-cartridges, and other debris was scattered over it. In the midst of these was a small black and white ivory box with a sliding lid. It was a neat little thing, and I had stretched out my hand to examine it more closely when—
 
-“The presumption is strongly against it. Bodies in the dissecting-rooms are injected with preservative fluid. These ears bear no signs of this. They are fresh, too. They have been cut off with a blunt instrument, which would hardly happen if a student had done it. Again, carbolic or rectified spirits would be the preservatives which would suggest themselves to the medical mind, certainly not rough salt. I repeat that there is no practical joke here, but that we are investigating a serious crime.”
+It was a dreadful cry that he gave—a yell which might have been heard down the street. My skin went cold and my hair bristled at that horrible scream. As I turned I caught a glimpse of a convulsed face and frantic eyes. I stood paralyzed, with the little box in my hand.
 
-A vague thrill ran through me as I listened to my companion's words and saw the stern gravity which had hardened his features. This brutal preliminary seemed to shadow forth some strange and inexplicable horror in the background. Lestrade, however, shook his head like a man who is only half convinced.
+“Put it down! Down, this instant, Watson—this instant, I say!” His head sank back upon the pillow and he gave a deep sigh of relief as I replaced the box upon the mantelpiece. “I hate to have my things touched, Watson. You know that I hate it. You fidget me beyond endurance. You, a doctor—you are enough to drive a patient into an asylum. Sit down, man, and let me have my rest!”
 
-“There are objections to the joke theory, no doubt,” said he, “but there are much stronger reasons against the other. We know that this woman has led a most quiet and respectable life at Penge and here for the last twenty years. She has hardly been away from her home for a day during that time. Why on earth, then, should any criminal send her the proofs of his guilt, especially as, unless she is a most consummate actress, she understands quite as little of the matter as we do?”
+The incident left a most unpleasant impression upon my mind. The violent and causeless excitement, followed by this brutality of speech, so far removed from his usual suavity, showed me how deep was the disorganization of his mind. Of all ruins, that of a noble mind is the most deplorable. I sat in silent dejection until the stipulated time had passed. He seemed to have been watching the clock as well as I, for it was hardly six before he began to talk with the same feverish animation as before.
 
-“That is the problem which we have to solve,” Holmes answered, “and for my part I shall set about it by presuming that my reasoning is correct, and that a double murder has been committed. One of these ears is a woman's, small, finely formed, and pierced for an earring. The other is a man's, sun-burned, discoloured, and also pierced for an earring. These two people are presumably dead, or we should have heard their story before now. To-day is Friday. The packet was posted on Thursday morning. The tragedy, then, occurred on Wednesday or Tuesday, or earlier. If the two people were murdered, who but their murderer would have sent this sign of his work to Miss Cushing? We may take it that the sender of the packet is the man whom we want. But he must have some strong reason for sending Miss Cushing this packet. What reason then? It must have been to tell her that the deed was done! or to pain her, perhaps. But in that case she knows who it is. Does she know? I doubt it. If she knew, why should she call the police in? She might have buried the ears, and no one would have been the wiser. That is what she would have done if she had wished to shield the criminal. But if she does not wish to shield him she would give his name. There is a tangle here which needs straightening to.” He had been talking in a high, quick voice, staring blankly up over the garden fence, but now he sprang briskly to his feet and walked towards the house.
+“Now, Watson,” said he. “Have you any change in your pocket?”
 
-“I have a few questions to ask Miss Cushing,” said he.
+“Yes.”
 
-“In that case I may leave you here,” said Lestrade, “for I have another small business on hand. I think that I have nothing further to learn from Miss Cushing. You will find me at the police-station.”
+“Any silver?”
 
-“We shall look in on our way to the train,” answered Holmes. A moment later he and I were back in the front room, where the impassive lady was still quietly working away at her antimacassar. She put it down on her lap as we entered and looked at us with her frank, searching blue eyes.
+“A good deal.”
 
-“I am convinced, sir,” she said, “that this matter is a mistake, and that the parcel was never meant for me at all. I have said this several times to the gentlemen from Scotland Yard, but he simply laughs at me. I have not an enemy in the world, as far as I know, so why should anyone play me such a trick?”
+“How many half-crowns?”
 
-“I am coming to be of the same opinion, Miss Cushing,” said Holmes, taking a seat beside her. “I think that it is more than probable—” He paused, and I was surprised, on glancing round to see that he was staring with singular intentness at the lady's profile. Surprise and satisfaction were both for an instant to be read upon his eager face, though when she glanced round to find out the cause of his silence he had become as demure as ever. I stared hard myself at her flat, grizzled hair, her trim cap, her little gilt earrings, her placid features; but I could see nothing which could account for my companion's evident excitement.
+“I have five.”
 
-“There were one or two questions—”
+“Ah, too few! Too few! How very unfortunate, Watson! However, such as they are you can put them in your watchpocket. And all the rest of your money in your left trouser pocket. Thank you. It will balance you so much better like that.”
 
-“Oh, I am weary of questions!” cried Miss Cushing impatiently.
+This was raving insanity. He shuddered, and again made a sound between a cough and a sob.
 
-“You have two sisters, I believe.”
+“You will now light the gas, Watson, but you will be very careful that not for one instant shall it be more than half on. I implore you to be careful, Watson. Thank you, that is excellent. No, you need not draw the blind. Now you will have the kindness to place some letters and papers upon this table within my reach. Thank you. Now some of that litter from the mantelpiece. Excellent, Watson! There is a sugar-tongs there. Kindly raise that small ivory box with its assistance. Place it here among the papers. Good! You can now go and fetch Mr. Culverton Smith, of 13 Lower Burke Street.”
 
-“How could you know that?”
+To tell the truth, my desire to fetch a doctor had somewhat weakened, for poor Holmes was so obviously delirious that it seemed dangerous to leave him. However, he was as eager now to consult the person named as he had been obstinate in refusing.
 
-“I observed the very instant that I entered the room that you have a portrait group of three ladies upon the mantelpiece, one of whom is undoubtedly yourself, while the others are so exceedingly like you that there could be no doubt of the relationship.”
+“I never heard the name,” said I.
 
-“Yes, you are quite right. Those are my sisters, Sarah and Mary.”
+“Possibly not, my good Watson. It may surprise you to know that the man upon earth who is best versed in this disease is not a medical man, but a planter. Mr. Culverton Smith is a well-known resident of Sumatra, now visiting London. An outbreak of the disease upon his plantation, which was distant from medical aid, caused him to study it himself, with some rather far-reaching consequences. He is a very methodical person, and I did not desire you to start before six, because I was well aware that you would not find him in his study. If you could persuade him to come here and give us the benefit of his unique experience of this disease, the investigation of which has been his dearest hobby, I cannot doubt that he could help me.”
 
-“And here at my elbow is another portrait, taken at Liverpool, of your younger sister, in the company of a man who appears to be a steward by his uniform. I observe that she was unmarried at the time.”
+I gave Holmes's remarks as a consecutive whole and will not attempt to indicate how they were interrupted by gaspings for breath and those clutchings of his hands which indicated the pain from which he was suffering. His appearance had changed for the worse during the few hours that I had been with him. Those hectic spots were more pronounced, the eyes shone more brightly out of darker hollows, and a cold sweat glimmered upon his brow. He still retained, however, the jaunty gallantry of his speech. To the last gasp he would always be the master.
 
-“You are very quick at observing.”
+“You will tell him exactly how you have left me,” said he. “You will convey the very impression which is in your own mind—a dying man—a dying and delirious man. Indeed, I cannot think why the whole bed of the ocean is not one solid mass of oysters, so prolific the creatures seem. Ah, I am wondering! Strange how the brain controls the brain! What was I saying, Watson?”
 
-“That is my trade.”
+“My directions for Mr. Culverton Smith.”
 
-“Well, you are quite right. But she was married to Mr. Browner a few days afterwards. He was on the South American line when that was taken, but he was so fond of her that he couldn't abide to leave her for so long, and he got into the Liverpool and London boats.”
+“Ah, yes, I remember. My life depends upon it. Plead with him, Watson. There is no good feeling between us. His nephew, Watson—I had suspicions of foul play and I allowed him to see it. The boy died horribly. He has a grudge against me. You will soften him, Watson. Beg him, pray him, get him here by any means. He can save me—only he!”
 
-“Ah, the Conqueror, perhaps?”
+“I will bring him in a cab, if I have to carry him down to it.”
 
-“No, the May Day, when last I heard. Jim came down here to see me once. That was before he broke the pledge; but afterwards he would always take drink when he was ashore, and a little drink would send him stark, staring mad. Ah! it was a bad day that ever he took a glass in his hand again. First he dropped me, then he quarrelled with Sarah, and now that Mary has stopped writing we don't know how things are going with them.”
+“You will do nothing of the sort. You will persuade him to come. And then you will return in front of him. Make any excuse so as not to come with him. Don't forget, Watson. You won't fail me. You never did fail me. No doubt there are natural enemies which limit the increase of the creatures. You and I, Watson, we have done our part. Shall the world, then, be overrun by oysters? No, no; horrible! You'll convey all that is in your mind.”
 
-It was evident that Miss Cushing had come upon a subject on which she felt very deeply. Like most people who lead a lonely life, she was shy at first, but ended by becoming extremely communicative. She told us many details about her brother-in-law the steward, and then wandering off on the subject of her former lodgers, the medical students, she gave us a long account of their delinquencies, with their names and those of their hospitals. Holmes listened attentively to everything, throwing in a question from time to time.
+I left him full of the image of this magnificent intellect babbling like a foolish child. He had handed me the key, and with a happy thought I took it with me lest he should lock himself in. Mrs. Hudson was waiting, trembling and weeping, in the passage. Behind me as I passed from the flat I heard Holmes's high, thin voice in some delirious chant. Below, as I stood whistling for a cab, a man came on me through the fog.
 
-“About your second sister, Sarah,” said he. “I wonder, since you are both maiden ladies, that you do not keep house together.”
+“How is Mr. Holmes, sir?” he asked.
 
-“Ah! you don't know Sarah's temper or you would wonder no more. I tried it when I came to Croydon, and we kept on until about two months ago, when we had to part. I don't want to say a word against my own sister, but she was always meddlesome and hard to please, was Sarah.”
+It was an old acquaintance, Inspector Morton, of Scotland Yard, dressed in unofficial tweeds.
 
-“You say that she quarrelled with your Liverpool relations.”
+“He is very ill,” I answered.
 
-“Yes, and they were the best of friends at one time. Why, she went up there to live in order to be near them. And now she has no word hard enough for Jim Browner. The last six months that she was here she would speak of nothing but his drinking and his ways. He had caught her meddling, I suspect, and given her a bit of his mind, and that was the start of it.”
+He looked at me in a most singular fashion. Had it not been too fiendish, I could have imagined that the gleam of the fanlight showed exultation in his face.
 
-“Thank you, Miss Cushing,” said Holmes, rising and bowing. “Your sister Sarah lives, I think you said, at New Street, Wallington? Good-bye, and I am very sorry that you should have been troubled over a case with which, as you say, you have nothing whatever to do.”
+“I heard some rumour of it,” said he.
 
-There was a cab passing as we came out, and Holmes hailed it.
+The cab had driven up, and I left him.
 
-“How far to Wallington?” he asked.
+Lower Burke Street proved to be a line of fine houses lying in the vague borderland between Notting Hill and Kensington. The particular one at which my cabman pulled up had an air of smug and demure respectability in its old-fashioned iron railings, its massive folding-door, and its shining brasswork. All was in keeping with a solemn butler who appeared framed in the pink radiance of a tinted electrical light behind him.
 
-“Only about a mile, sir.”
+“Yes, Mr. Culverton Smith is in. Dr. Watson! Very good, sir, I will take up your card.”
 
-“Very good. Jump in, Watson. We must strike while the iron is hot. Simple as the case is, there have been one or two very instructive details in connection with it. Just pull up at a telegraph office as you pass, cabby.”
+My humble name and title did not appear to impress Mr. Culverton Smith. Through the half-open door I heard a high, petulant, penetrating voice.
 
-Holmes sent off a short wire and for the rest of the drive lay back in the cab, with his hat tilted over his nose to keep the sun from his face. Our drive pulled up at a house which was not unlike the one which we had just quitted. My companion ordered him to wait, and had his hand upon the knocker, when the door opened and a grave young gentleman in black, with a very shiny hat, appeared on the step.
+“Who is this person? What does he want? Dear me, Staples, how often have I said that I am not to be disturbed in my hours of study?”
 
-“Is Miss Cushing at home?” asked Holmes.
+There came a gentle flow of soothing explanation from the butler.
 
-“Miss Sarah Cushing is extremely ill,” said he. “She has been suffering since yesterday from brain symptoms of great severity. As her medical adviser, I cannot possibly take the responsibility of allowing anyone to see her. I should recommend you to call again in ten days.” He drew on his gloves, closed the door, and marched off down the street.
+“Well, I won't see him, Staples. I can't have my work interrupted like this. I am not at home. Say so. Tell him to come in the morning if he really must see me.”
 
-“Well, if we can't we can't,” said Holmes, cheerfully.
+Again the gentle murmur.
 
-“Perhaps she could not or would not have told you much.”
+“Well, well, give him that message. He can come in the morning, or he can stay away. My work must not be hindered.”
 
-“I did not wish her to tell me anything. I only wanted to look at her. However, I think that I have got all that I want. Drive us to some decent hotel, cabby, where we may have some lunch, and afterwards we shall drop down upon friend Lestrade at the police-station.”
+I thought of Holmes tossing upon his bed of sickness and counting the minutes, perhaps, until I could bring help to him. It was not a time to stand upon ceremony. His life depended upon my promptness. Before the apologetic butler had delivered his message I had pushed past him and was in the room.
 
-We had a pleasant little meal together, during which Holmes would talk about nothing but violins, narrating with great exultation how he had purchased his own Stradivarius, which was worth at least five hundred guineas, at a Jew broker's in Tottenham Court Road for fifty-five shillings. This led him to Paganini, and we sat for an hour over a bottle of claret while he told me anecdote after anecdote of that extraordinary man. The afternoon was far advanced and the hot glare had softened into a mellow glow before we found ourselves at the police-station. Lestrade was waiting for us at the door.
+With a shrill cry of anger a man rose from a reclining chair beside the fire. I saw a great yellow face, coarse-grained and greasy, with heavy, double-chin, and two sullen, menacing gray eyes which glared at me from under tufted and sandy brows. A high bald head had a small velvet smoking-cap poised coquettishly upon one side of its pink curve. The skull was of enormous capacity, and yet as I looked down I saw to my amazement that the figure of the man was small and frail, twisted in the shoulders and back like one who has suffered from rickets in his childhood.
 
-“A telegram for you, Mr. Holmes,” said he.
+“What's this?” he cried in a high, screaming voice. “What is the meaning of this intrusion? Didn't I send you word that I would see you to-morrow morning?”
 
-“Ha! It is the answer!” He tore it open, glanced his eyes over it, and crumpled it into his pocket. “That's all right,” said he.
+“I am sorry,” said I, “but the matter cannot be delayed. Mr. Sherlock Holmes—”
 
-“Have you found out anything?”
+The mention of my friend's name had an extraordinary effect upon the little man. The look of anger passed in an instant from his face. His features became tense and alert.
 
-“I have found out everything!”
+“Have you come from Holmes?” he asked.
 
-“What!” Lestrade stared at him in amazement. “You are joking.”
+“I have just left him.”
 
-“I was never more serious in my life. A shocking crime has been committed, and I think I have now laid bare every detail of it.”
+“What about Holmes? How is he?”
 
-“And the criminal?”
+“He is desperately ill. That is why I have come.”
 
-Holmes scribbled a few words upon the back of one of his visiting cards and threw it over to Lestrade.
+The man motioned me to a chair, and turned to resume his own. As he did so I caught a glimpse of his face in the mirror over the mantelpiece. I could have sworn that it was set in a malicious and abominable smile. Yet I persuaded myself that it must have been some nervous contraction which I had surprised, for he turned to me an instant later with genuine concern upon his features.
 
-“That is the name,” he said. “You cannot effect an arrest until to-morrow night at the earliest. I should prefer that you do not mention my name at all in connection with the case, as I choose to be only associated with those crimes which present some difficulty in their solution. Come on, Watson.” We strode off together to the station, leaving Lestrade still staring with a delighted face at the card which Holmes had thrown him.
+“I am sorry to hear this,” said he. “I only know Mr. Holmes through some business dealings which we have had, but I have every respect for his talents and his character. He is an amateur of crime, as I am of disease. For him the villain, for me the microbe. There are my prisons,” he continued, pointing to a row of bottles and jars which stood upon a side table. "Among those gelatine cultivations some of the very worst offenders in the world are now doing time."
 
-“The case,” said Sherlock Holmes as we chatted over or cigars that night in our rooms at Baker Street, “is one where, as in the investigations which you have chronicled under the names of ‘A Study in Scarlet’ and of ‘The Sign of Four,’ we have been compelled to reason backward from effects to causes. I have written to Lestrade asking him to supply us with the details which are now wanting, and which he will only get after he had secured his man. That he may be safely trusted to do, for although he is absolutely devoid of reason, he is as tenacious as a bulldog when he once understands what he has to do, and indeed, it is just this tenacity which has brought him to the top at Scotland Yard.”
+“It was on account of your special knowledge that Mr. Holmes desired to see you. He has a high opinion of you and thought that you were the one man in London who could help him.”
 
-“Your case is not complete, then?” I asked.
+The little man started, and the jaunty smoking-cap slid to the floor.
 
-“It is fairly complete in essentials. We know who the author of the revolting business is, although one of the victims still escapes us. Of course, you have formed your own conclusions.”
+“Why?” he asked. “Why should Mr. Homes think that I could help him in his trouble?”
 
-“I presume that this Jim Browner, the steward of a Liverpool boat, is the man whom you suspect?”
+“Because of your knowledge of Eastern diseases.”
 
-“Oh! it is more than a suspicion.”
+“But why should he think that this disease which he has contracted is Eastern?”
 
-“And yet I cannot see anything save very vague indications.”
+“Because, in some professional inquiry, he has been working among Chinese sailors down in the docks.”
 
-“On the contrary, to my mind nothing could be more clear. Let me run over the principal steps. We approached the case, you remember, with an absolutely blank mind, which is always an advantage. We had formed no theories. We were simply there to observe and to draw inferences from our observations. What did we see first? A very placid and respectable lady, who seemed quite innocent of any secret, and a portrait which showed me that she had two younger sisters. It instantly flashed across my mind that the box might have been meant for one of these. I set the idea aside as one which could be disproved or confirmed at our leisure. Then we went to the garden, as you remember, and we saw the very singular contents of the little yellow box.
+Mr. Culverton Smith smiled pleasantly and picked up his smoking-cap.
 
-“The string was of the quality which is used by sail-makers aboard ship, and at once a whiff of the sea was perceptible in our investigation. When I observed that the knot was one which is popular with sailors, that the parcel had been posted at a port, and that the male ear was pierced for an earring which is so much more common among sailors than landsmen, I was quite certain that all the actors in the tragedy were to be found among our seafaring classes.
+“Oh, that's it—is it?” said he. “I trust the matter is not so grave as you suppose. How long has he been ill?”
 
-“When I came to examine the address of the packet I observed that it was to Miss S. Cushing. Now, the oldest sister would, of course, be Miss Cushing, and although her initial was ‘S’ it might belong to one of the others as well. In that case we should have to commence our investigation from a fresh basis altogether. I therefore went into the house with the intention of clearing up this point. I was about to assure Miss Cushing that I was convinced that a mistake had been made when you may remember that I came suddenly to a stop. The fact was that I had just seen something which filled me with surprise and at the same time narrowed the field of our inquiry immensely.
+“About three days.”
 
-“As a medical man, you are aware, Watson, that there is no part of the body which varies so much as the human ear. Each ear is as a rule quite distinctive and differs from all other ones. In last year's Anthropological Journal you will find two short monographs from my pen upon the subject. I had, therefore, examined the ears in the box with the eyes of an expert and had carefully noted their anatomical peculiarities. Imagine my surprise, then, when on looking at Miss Cushing I perceived that her ear corresponded exactly with the female ear which I had just inspected. The matter was entirely beyond coincidence. There was the same shortening of the pinna, the same broad curve of the upper lobe, the same convolution of the inner cartilage. In all essentials it was the same ear.
+“Is he delirious?”
 
-“In the first place, her sister's name was Sarah, and her address had until recently been the same, so that it was quite obvious how the mistake had occurred and for whom the packet was meant. Then we heard of this steward, married to the third sister, and learned that he had at one time been so intimate with Miss Sarah that she had actually gone up to Liverpool to be near the Browners, but a quarrel had afterwards divided them. This quarrel had put a stop to all communications for some months, so that if Browner had occasion to address a packet to Miss Sarah, he would undoubtedly have done so to her old address.
+“Occasionally.”
 
-“And now the matter had begun to straighten itself out wonderfully. We had learned of the existence of this steward, an impulsive man, of strong passions—you remember that he threw up what must have been a very superior berth in order to be nearer to his wife—subject, too, to occasional fits of hard drinking. We had reason to believe that his wife had been murdered, and that a man—presumably a seafaring man—had been murdered at the same time. Jealousy, of course, at once suggests itself as the motive for the crime. And why should these proofs of the deed be sent to Miss Sarah Cushing? Probably because during her residence in Liverpool she had some hand in bringing about the events which led to the tragedy. You will observe that this line of boats call at Belfast, Dublin, and Waterford; so that, presuming that Browner had committed the deed and had embarked at once upon his steamer, the May Day, Belfast would be the first place at which he could post his terrible packet.
+“Tut, tut! This sounds serious. It would be inhuman not to answer his call. I very much resent any interruption to my work, Dr. Watson, but this case is certainly exceptional. I will come with you at once.”
 
-“A second solution was at this stage obviously possible, and although I thought it exceedingly unlikely, I was determined to elucidate it before going further. An unsuccessful lover might have killed Mr. and Mrs. Browner, and the male ear might have belonged to the husband. There were many grave objections to this theory, but it was conceivable. I therefore sent off a telegram to my friend Algar, of the Liverpool force, and asked him to find out if Mrs. Browner were at home, and if Browner had departed in the May Day. Then we went on to Wallington to visit Miss Sarah.
+I remembered Holmes's injunction.
 
-“I was curious, in the first place, to see how far the family ear had been reproduced in her. Then, of course, she might give us very important information, but I was not sanguine that she would. She must have heard of the business the day before, since all Croydon was ringing with it, and she alone could have understood for whom the packet was meant. If she had been willing to help justice she would probably have communicated with the police already. However, it was clearly our duty to see her, so we went. We found that the news of the arrival of the packet—for her illness dated from that time—had such an effect upon her as to bring on brain fever. It was clearer than ever that she understood its full significance, but equally clear that we should have to wait some time for any assistance from her.
+“I have another appointment,” said I.
 
-“However, we were really independent of her help. Our answers were waiting for us at the police-station, where I had directed Algar to send them. Nothing could be more conclusive. Mrs. Browner's house had been closed for more than three days, and the neighbours were of opinion that she had gone south to see her relatives. It had been ascertained at the shipping offices that Browner had left aboard of the May Day, and I calculate that she is due in the Thames tomorrow night. When he arrives he will be met by the obtuse but resolute Lestrade, and I have no doubt that we shall have all our details filled in.”
+“Very good. I will go alone. I have a note of Mr. Holmes's address. You can rely upon my being there within half an hour at most.”
 
-Sherlock Holmes was not disappointed in his expectations. Two days later he received a bulky envelope, which contained a short note from the detective, and a typewritten document, which covered several pages of foolscap.
+It was with a sinking heart that I reentered Holmes's bedroom. For all that I knew the worst might have happened in my absence. To my enormous relief, he had improved greatly in the interval. His appearance was as ghastly as ever, but all trace of delirium had left him and he spoke in a feeble voice, it is true, but with even more than his usual crispness and lucidity.
 
-“Lestrade has got him all right,” said Holmes, glancing up at me. “Perhaps it would interest you to hear what he says.
+“Well, did you see him, Watson?”
 
-“My dear Mr. Holmes:
-“In accordance with the scheme which we had formed in order to test our theories” [“the ‘we’ is rather fine, Watson, is it not?”] “I went down to the Albert Dock yesterday at 6 p.m., and boarded the S.S. May Day, belonging to the Liverpool, Dublin, and London Steam Packet Company. On inquiry, I found that there was a steward on board of the name of James Browner and that he had acted during the voyage in such an extraordinary manner that the captain had been compelled to relieve him of his duties. On descending to his berth, I found him seated upon a chest with his head sunk upon his hands, rocking himself to and fro. He is a big, powerful chap, clean-shaven, and very swarthy—something like Aldrige, who helped us in the bogus laundry affair. He jumped up when he heard my business, and I had my whistle to my lips to call a couple of river police, who were round the corner, but he seemed to have no heart in him, and he held out his hands quietly enough for the darbies. We brought him along to the cells, and his box as well, for we thought there might be something incriminating; but, bar a big sharp knife such as most sailors have, we got nothing for our trouble. However, we find that we shall want no more evidence, for on being brought before the inspector at the station he asked leave to make a statement, which was, of course, taken down, just as he made it, by our shorthand man. We had three copies typewritten, one of which I enclose. The affair proves, as I always thought it would, to be an extremely simple one, but I am obliged to you for assisting me in my investigation. With kind regards,
-“Yours very truly,
-“G. Lestrade.
-“Hum! The investigation really was a very simple one,” remarked Holmes, “but I don't think it struck him in that light when he first called us in. However, let us see what Jim Browner has to say for himself. This is his statement as made before Inspector Montgomery at the Shadwell Police Station, and it has the advantage of being verbatim.”
+“Yes; he is coming.”
 
-“‘Have I anything to say? Yes, I have a deal to say. I have to make a clean breast of it all. You can hang me, or you can leave me alone. I don't care a plug which you do. I tell you I've not shut an eye in sleep since I did it, and I don't believe I ever will again until I get past all waking. Sometimes it's his face, but most generally it's hers. I'm never without one or the other before me. He looks frowning and black-like, but she has a kind o' surprise upon her face. Ay, the white lamb, she might well be surprised when she read death on a face that had seldom looked anything but love upon her before.
+“Admirable, Watson! Admirable! You are the best of messengers.”
 
-“‘But it was Sarah's fault, and may the curse of a broken man put a blight on her and set the blood rotting in her veins! It's not that I want to clear myself. I know that I went back to drink, like the beast that I was. But she would have forgiven me; she would have stuck as close to me a rope to a block if that woman had never darkened our door. For Sarah Cushing loved me—that's the root of the business—she loved me until all her love turned to poisonous hate when she knew that I thought more of my wife's footmark in the mud than I did of her whole body and soul.
+“He wished to return with me.”
 
-“‘There were three sisters altogether. The old one was just a good woman, the second was a devil, and the third was an angel. Sarah was thirty-three, and Mary was twenty-nine when I married. We were just as happy as the day was long when we set up house together, and in all Liverpool there was no better woman than my Mary. And then we asked Sarah up for a week, and the week grew into a month, and one thing led to another, until she was just one of ourselves.
+“That would never do, Watson. That would be obviously impossible. Did he ask what ailed me?”
 
-“‘I was blue ribbon at that time, and we were putting a little money by, and all was as bright as a new dollar. My God, whoever would have thought that it could have come to this? Whoever would have dreamed it?
+“I told him about the Chinese in the East End.”
 
-“‘I used to be home for the week-ends very often, and sometimes if the ship were held back for cargo I would have a whole week at a time, and in this way I saw a deal of my sister-in-law, Sarah. She was a fine tall woman, black and quick and fierce, with a proud way of carrying her head, and a glint from her eye like a spark from a flint. But when little Mary was there I had never a thought of her, and that I swear as I hope for God's mercy.
+“Exactly! Well, Watson, you have done all that a good friend could. You can now disappear from the scene.”
 
-“‘It had seemed to me sometimes that she liked to be alone with me, or to coax me out for a walk with her, but I had never thought anything of that. But one evening my eyes were opened. I had come up from the ship and found my wife out, but Sarah at home. “Where's Mary?” I asked. “Oh, she has gone to pay some accounts.” I was impatient and paced up and down the room. “Can't you be happy for five minutes without Mary, Jim?” says she. “It's a bad compliment to me that you can't be contented with my society for so short a time.” “That's all right, my lass,” said I, putting out my hand towards her in a kindly way, but she had it in both hers in an instant, and they burned as if they were in a fever. I looked into her eyes and I read it all there. There was no need for her to speak, nor for me either. I frowned and drew my hand away. Then she stood by my side in silence for a bit, and then put up her hand and patted me on the shoulder. “Steady old Jim!” said she, and with a kind o' mocking laugh, she ran out of the room.
+“I must wait and hear his opinion, Holmes.”
 
-“‘Well, from that time Sarah hated me with her whole heart and soul, and she is a woman who can hate, too. I was a fool to let her go on biding with us—a besotted fool—but I never said a word to Mary, for I knew it would grieve her. Things went on much as before, but after a time I began to find that there was a bit of a change in Mary herself. She had always been so trusting and so innocent, but now she became queer and suspicious, wanting to know where I had been and what I had been doing, and whom my letters were from, and what I had in my pockets, and a thousand such follies. Day by day she grew queerer and more irritable, and we had ceaseless rows about nothing. I was fairly puzzled by it all. Sarah avoided me now, but she and Mary were just inseparable. I can see now how she was plotting and scheming and poisoning my wife's mind against me, but I was such a blind beetle that I could not understand it at the time. Then I broke my blue ribbon and began to drink again, but I think I should not have done it if Mary had been the same as ever. She had some reason to be disgusted with me now, and the gap between us began to be wider and wider. And then this Alec Fairbairn chipped in, and things became a thousand times blacker.
+“Of course you must. But I have reasons to suppose that this opinion would be very much more frank and valuable if he imagines that we are alone. There is just room behind the head of my bed, Watson.”
 
-“‘It was to see Sarah that he came to my house first, but soon it was to see us, for he was a man with winning ways, and he made friends wherever he went. He was a dashing, swaggering chap, smart and curled, who had seen half the world and could talk of what he had seen. He was good company, I won't deny it, and he had wonderful polite ways with him for a sailor man, so that I think there must have been a time when he knew more of the poop than the forecastle. For a month he was in and out of my house, and never once did it cross my mind that harm might come of his soft, tricky ways. And then at last something made me suspect, and from that day my peace was gone forever.
+“My dear Holmes!”
 
-“‘It was only a little thing, too. I had come into the parlour unexpected, and as I walked in at the door I saw a light of welcome on my wife's face. But as she saw who it was it faded again, and she turned away with a look of disappointment. That was enough for me. There was no one but Alec Fairbairn whose step she could have mistaken for mine. If I could have seen him then I should have killed him, for I have always been like a madman when my temper gets loose. Mary saw the devil's light in my eyes, and she ran forward with her hands on my sleeve. “Don't, Jim, don't!” says she. “Where's Sarah?” I asked. “In the kitchen,” says she. “Sarah,” says I as I went in, “this man Fairbairn is never to darken my door again.” “Why not?” says she. “Because I order it.” “Oh!” says she, “if my friends are not good enough for this house, then I am not good enough for it either.” “You can do what you like,” says I, “but if Fairbairn shows his face here again I'll send you one of his ears for a keepsake.” She was frightened by my face, I think, for she never answered a word, and the same evening she left my house.
+“I fear there is no alternative, Watson. The room does not lend itself to concealment, which is as well, as it is the less likely to arouse suspicion. But just there, Watson, I fancy that it could be done.” Suddenly he sat up with a rigid intentness upon his haggard face. “There are the wheels, Watson. Quick, man, if you love me! And don't budge, whatever happens—whatever happens, do you hear? Don't speak! Don't move! Just listen with all your ears.” Then in an instant his sudden access of strength departed, and his masterful, purposeful talk droned away into the low, vague murmurings of a semi-delirious man.
 
-“‘Well, I don't know now whether it was pure devilry on the part of this woman, or whether she thought that she could turn me against my wife by encouraging her to misbehave. Anyway, she took a house just two streets off and let lodgings to sailors. Fairbairn used to stay there, and Mary would go round to have tea with her sister and him. How often she went I don't know, but I followed her one day, and as I broke in at the door Fairbairn got away over the back garden wall, like the cowardly skunk that he was. I swore to my wife that I would kill her if I found her in his company again, and I led her back with me, sobbing and trembling, and as white as a piece of paper. There was no trace of love between us any longer. I could see that she hated me and feared me, and when the thought of it drove me to drink, then she despised me as well.
+From the hiding-place into which I had been so swiftly hustled I heard the footfalls upon the stair, with the opening and the closing of the bedroom door. Then, to my surprise, there came a long silence, broken only by the heavy breathings and gaspings of the sick man. I could imagine that our visitor was standing by the bedside and looking down at the sufferer. At last that strange hush was broken.
 
-“‘Well, Sarah found that she could not make a living in Liverpool, so she went back, as I understand, to live with her sister in Croydon, and things jogged on much the same as ever at home. And then came this week and all the misery and ruin.
+“Holmes!” he cried. “Holmes!” in the insistent tone of one who awakens a sleeper. "Can't you hear me, Holmes?" There was a rustling, as if he had shaken the sick man roughly by the shoulder.
 
-“‘It was in this way. We had gone on the May Day for a round voyage of seven days, but a hogshead got loose and started one of our plates, so that we had to put back into port for twelve hours. I left the ship and came home, thinking what a surprise it would be for my wife, and hoping that maybe she would be glad to see me so soon. The thought was in my head as I turned into my own street, and at that moment a cab passed me, and there she was, sitting by the side of Fairbairn, the two chatting and laughing, with never a thought for me as I stood watching them from the footpath.
+“Is that you, Mr. Smith?” Holmes whispered. “I hardly dared hope that you would come.”
 
-“‘I tell you, and I give you my word for it, that from that moment I was not my own master, and it is all like a dim dream when I look back on it. I had been drinking hard of late, and the two things together fairly turned my brain. There's something throbbing in my head now, like a docker's hammer, but that morning I seemed to have all Niagara whizzing and buzzing in my ears.
+The other laughed.
 
-“‘Well, I took to my heels, and I ran after the cab. I had a heavy oak stick in my hand, and I tell you I saw red from the first; but as I ran I got cunning, too, and hung back a little to see them without being seen. They pulled up soon at the railway station. There was a good crowd round the booking-office, so I got quite close to them without being seen. They took tickets for New Brighton. So did I, but I got in three carriages behind them. When we reached it they walked along the Parade, and I was never more than a hundred yards from them. At last I saw them hire a boat and start for a row, for it was a very hot day, and they thought, no doubt, that it would be cooler on the water.
+“I should imagine not,” he said. “And yet, you see, I am here. Coals of fire, Holmes—coals of fire!”
 
-“‘It was just as if they had been given into my hands. There was a bit of a haze, and you could not see more than a few hundred yards. I hired a boat for myself, and I pulled after them. I could see the blur of their craft, but they were going nearly as fast as I, and they must have been a long mile from the shore before I caught them up. The haze was like a curtain all round us, and there were we three in the middle of it. My God, shall I ever forget their faces when they saw who was in the boat that was closing in upon them? She screamed out. He swore like a madman and jabbed at me with an oar, for he must have seen death in my eyes. I got past it and got one in with my stick that crushed his head like an egg. I would have spared her, perhaps, for all my madness, but she threw her arms round him, crying out to him, and calling him “Alec.” I struck again, and she lay stretched beside him. I was like a wild beast then that had tasted blood. If Sarah had been there, by the Lord, she should have joined them. I pulled out my knife, and—well, there! I've said enough. It gave me a kind of savage joy when I thought how Sarah would feel when she had such signs as these of what her meddling had brought about. Then I tied the bodies into the boat, stove a plank, and stood by until they had sunk. I knew very well that the owner would think that they had lost their bearings in the haze, and had drifted off out to sea. I cleaned myself up, got back to land, and joined my ship without a soul having a suspicion of what had passed. That night I made up the packet for Sarah Cushing, and next day I sent it from Belfast.
+“It is very good of you—very noble of you. I appreciate your special knowledge.”
 
-“‘There you have the whole truth of it. You can hang me, or do what you like with me, but you cannot punish me as I have been punished already. I cannot shut my eyes but I see those two faces staring at me—staring at me as they stared when my boat broke through the haze. I killed them quick, but they are killing me slow; and if I have another night of it I shall be either mad or dead before morning. You won't put me alone into a cell, sir? For pity's sake don't, and may you be treated in your day of agony as you treat me now.’
+Our visitor sniggered.
 
-“What is the meaning of it, Watson?[^2]” said Holmes solemnly as he laid down the paper. “What object is served by this circle of misery and violence and fear? It must tend to some end, or else our universe is ruled by chance, which is unthinkable. But what end? There is the great standing perennial problem to which human reason is as far from an answer as ever.”
+“You do. You are, fortunately, the only man in London who does. Do you know what is the matter with you?”
 
-[Text taken from here](http://sherlock-holm.es/stories/html/card.html)
+“The same,” said Holmes.
 
-[^1]: This is some text for a footnote.
-[^2]: Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec ullamcorper nulla non metus auctor fringilla.
+“Ah! You recognize the symptoms?”
+
+“Only too well.”
+
+“Well, I shouldn't be surprised, Holmes. I shouldn't be surprised if it were the same. A bad lookout for you if it is. Poor Victor was a dead man on the fourth day—a strong, hearty young fellow. It was certainly, as you said, very surprising that he should have contracted and out-of-the-way Asiatic disease in the heart of London—a disease, too, of which I had made such a very special study. Singular coincidence, Holmes. Very smart of you to notice it, but rather uncharitable to suggest that it was cause and effect.”
+
+“I knew that you did it.”
+
+“Oh, you did, did you? Well, you couldn't prove it, anyhow. But what do you think of yourself spreading reports about me like that, and then crawling to me for help the moment you are in trouble? What sort of a game is that—eh?”
+
+I heard the rasping, laboured breathing of the sick man. “Give me the water!” he gasped.
+
+“You're precious near your end, my friend, but I don't want you to go till I have had a word with you. That's why I give you water. There, don't slop it about! That's right. Can you understand what I say?”
+
+Holmes groaned.
+
+“Do what you can for me. Let bygones be bygones,” he whispered. “I'll put the words out of my head—I swear I will. Only cure me, and I'll forget it.”
+
+“Forget what?”
+
+“Well, about Victor Savage's death. You as good as admitted just now that you had done it. I'll forget it.”
+
+“You can forget it or remember it, just as you like. I don't see you in the witnessbox. Quite another shaped box, my good Holmes, I assure you. It matters nothing to me that you should know how my nephew died. It's not him we are talking about. It's you.”
+
+“Yes, yes.”
+
+“The fellow who came for me—I've forgotten his name—said that you contracted it down in the East End among the sailors.”
+
+“I could only account for it so.”
+
+“You are proud of your brains, Holmes, are you not? Think yourself smart, don't you? You came across someone who was smarter this time. Now cast your mind back, Holmes. Can you think of no other way you could have got this thing?”
+
+“I can't think. My mind is gone. For heaven's sake help me!”
+
+“Yes, I will help you. I'll help you to understand just where you are and how you got there. I'd like you to know before you die.”
+
+“Give me something to ease my pain.”
+
+“Painful, is it? Yes, the coolies used to do some squealing towards the end. Takes you as cramp, I fancy.”
+
+“Yes, yes; it is cramp.”
+
+“Well, you can hear what I say, anyhow. Listen now! Can you remember any unusual incident in your life just about the time your symptoms began?”
+
+“No, no; nothing.”
+
+“Think again.”
+
+“I'm too ill to think.”
+
+“Well, then, I'll help you. Did anything come by post?”
+
+“By post?”
+
+“A box by chance?”
+
+“I'm fainting—I'm gone!”
+
+“Listen, Holmes!” There was a sound as if he was shaking the dying man, and it was all that I could do to hold myself quiet in my hiding-place. “You must hear me. You shall hear me. Do you remember a box—an ivory box? It came on Wednesday. You opened it—do you remember?”
+
+“Yes, yes, I opened it. There was a sharp spring inside it. Some joke—”
+
+“It was no joke, as you will find to your cost. You fool, you would have it and you have got it. Who asked you to cross my path? If you had left me alone I would not have hurt you.”
+
+“I remember,” Holmes gasped. “The spring! It drew blood. This box—this on the table.”
+
+“The very one, by George! And it may as well leave the room in my pocket. There goes your last shred of evidence. But you have the truth now, Holmes, and you can die with the knowledge that I killed you. You knew too much of the fate of Victor Savage, so I have sent you to share it. You are very near your end, Holmes. I will sit here and I will watch you die.”
+
+Holmes's voice had sunk to an almost inaudible whisper.
+
+“What is that?” said Smith. “Turn up the gas? Ah, the shadows begin to fall, do they? Yes, I will turn it up, that I may see you the better.” He crossed the room and the light suddenly brightened. "Is there any other little service that I can do you, my friend?"
+
+“A match and a cigarette.”
+
+I nearly called out in my joy and my amazement. He was speaking in his natural voice—a little weak, perhaps, but the very voice I knew. There was a long pause, and I felt that Culverton Smith was standing in silent amazement looking down at his companion.
+
+“What's the meaning of this?” I heard him say at last in a dry, rasping tone.
+
+“The best way of successfully acting a part is to be it,” said Holmes. “I give you my word that for three days I have tasted neither food nor drink until you were good enough to pour me out that glass of water. But it is the tobacco which I find most irksome. Ah, here are some cigarettes.” I heard the striking of a match. "That is very much better. Halloa! halloa! Do I hear the step of a friend?"
+
+There were footfalls outside, the door opened, and Inspector Morton appeared.
+
+“All is in order and this is your man,” said Holmes.
+
+The officer gave the usual cautions.
+
+“I arrest you on the charge of the murder of one Victor Savage,” he concluded.
+
+“And you might add of the attempted murder of one Sherlock Holmes,” remarked my friend with a chuckle. “To save an invalid trouble, Inspector, Mr. Culverton Smith was good enough to give our signal by turning up the gas. By the way, the prisoner has a small box in the right-hand pocket of his coat which it would be as well to remove. Thank you. I would handle it gingerly if I were you. Put it down here. It may play its part in the trial.”
+
+There was a sudden rush and a scuffle, followed by the clash of iron and a cry of pain.
+
+“You'll only get yourself hurt,” said the inspector. “Stand still, will you?” There was the click of the closing handcuffs.
+
+“A nice trap!” cried the high, snarling voice. “It will bring you into the dock, Holmes, not me. He asked me to come here to cure him. I was sorry for him and I came. Now he will pretend, no doubt, that I have said anything which he may invent which will corroborate his insane suspicions. You can lie as you like, Holmes. My word is always as good as yours.”
+
+“Good heavens!” cried Holmes. “I had totally forgotten him. My dear Watson, I owe you a thousand apologies. To think that I should have overlooked you! I need not introduce you to Mr. Culverton Smith, since I understand that you met somewhat earlier in the evening. Have you the cab below? I will follow you when I am dressed, for I may be of some use at the station.
+
+“I never needed it more,” said Holmes as he refreshed himself with a glass of claret and some biscuits in the intervals of his toilet. “However, as you know, my habits are irregular, and such a feat means less to me than to most men. It was very essential that I should impress Mrs. Hudson with the reality of my condition, since she was to convey it to you, and you in turn to him. You won't be offended, Watson? You will realize that among your many talents dissimulation finds no place, and that if you had shared my secret you would never have been able to impress Smith with the urgent necessity of his presence, which was the vital point of the whole scheme. Knowing his vindictive nature, I was perfectly certain that he would come to look upon his handiwork.”
+
+“But your appearance, Holmes—your ghastly face?”
+
+“Three days of absolute fast does not improve one's beauty, Watson. For the rest, there is nothing which a sponge may not cure. With vaseline upon one's forehead, belladonna in one's eyes, rouge over the cheek-bones, and crusts of beeswax round one's lips, a very satisfying effect can be produced. Malingering is a subject upon which I have sometimes thought of writing a monograph. A little occasional talk about half-crowns, oysters, or any other extraneous subject produces a pleasing effect of delirium.”
+
+“But why would you not let me near you, since there was in truth no infection?”
+
+“Can you ask, my dear Watson? Do you imagine that I have no respect for your medical talents? Could I fancy that your astute judgment would pass a dying man who, however weak, had no rise of pulse or temperature? At four yards, I could deceive you. If I failed to do so, who would bring my Smith within my grasp? No, Watson, I would not touch that box. You can just see if you look at it sideways where the sharp spring like a viper's tooth emerges as you open it. I dare say it was by some such device that poor Savage, who stood between this monster and a reversion, was done to death. My correspondence, however, is, as you know, a varied one, and I am somewhat upon my guard against any packages which reach me. It was clear to me, however, that by pretending that he had really succeeded in his design I might surprise a confession. That pretence I have carried out with the thoroughness of the true artist. Thank you, Watson, you must help me on with my coat. When we have finished at the police-station I think that something nutritious at Simpson's would not be out of place.”
+
+[Text taken from here](http://sherlock-holm.es/stories/html/dyin.html)
