@@ -3,18 +3,12 @@ layout: post
 title: me
 ---
 
-gostaria de ser lembrada como uma pessoa corajosa, 
-que está sempre em busca de conhecer novas pessoas, 
-experimentar novos sabores e ouvir histórias outras.
-gostaria de ser lembrada como alguém que adora abraços,
-beijos e demonstrações de afeto. uma mulher que desde cedo,
-mesmo confusa sempre soube o que queria e seguiu seu
-caminho, mesmo tendo mudado de caminho muitas vezes.
-alguém que lê muito, que pesquisa, que estuda e vai muitas vezes
-tão fundo que se perde no tempo, mas nunca acha que foi tempo perdido.
- fez cursos, visitou várias aulas, escutou muitos podcasts e viu centenas
- de filmes. uma pessoa que é apaixonada pela própria caligrafia, escrita e looks.
- uma pessoa que gosta muito de cozinhar e de comer. alguém que tem uma vontade 
- enorme de viver e viveu até o último plena.
+Oi!
 
+> meu nome é Nádia, tenho 37 anos. sou antropóloga, historiadora, programadora, anarquista, não-monogâmica, feminista interseccional e ativista do prazer. gosto muito de ler, escrever, cozinhar, dançar e de beijos e abraços.
+
+
+
+Hallo!
+> Ich bin Nádia, 37 Jahre alt. Ich bin Anthropologin, Historikerin, Programmiererin, Anarchistin, nichtmonogam, intersektionale Feministin und pleasure Aktivistin. Ich lese, schreibe, koche, tanze und küsse und umarme gerne.
 
